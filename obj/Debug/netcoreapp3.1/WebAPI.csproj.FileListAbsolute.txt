@@ -1,0 +1,884 @@
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.xml
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.StaticWebAssets.xml
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bobsc\source\repos\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.StaticWebAssets.xml
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.xml
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bobsc\source\repos\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.StaticWebAssets.xml
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.xml
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+C:\Development\User-Registration Api And Angular7\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.StaticWebAssets.xml
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+C:\Development\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Development\LIMS2\API\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+C:\Development\LIMS2\API\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.xml
+C:\Development\LIMS2\API\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Development\LIMS2\API\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Development\LIMS2\API\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+C:\Development\LIMS2\API\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+C:\Development\LIMS2\API\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Development\LIMS2\API\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+C:\Development\LIMS2\API\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+C:\Development\LIMS2\API\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Development\LIMS2\API\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.StaticWebAssets.xml
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Development\OLD\LIMS2\API\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Development\OLD\LIMS2\API\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
+C:\Development\OLD\LIMS2\API\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+C:\Development\OLD\LIMS2\API\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.xml
+C:\Development\OLD\LIMS2\API\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Development\OLD\LIMS2\API\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Development\OLD\LIMS2\API\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+C:\Development\OLD\LIMS2\API\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+C:\Development\OLD\LIMS2\API\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Development\OLD\LIMS2\API\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+C:\Development\OLD\LIMS2\API\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+C:\Development\OLD\LIMS2\API\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Development\OLD\LIMS2\API\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+C:\Development\OLD\LIMS2\API\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.StaticWebAssets.xml
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.xml
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\SendGrid.dll
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Development\TESTING AREA\M.E.T\API\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.StaticWebAssets.xml
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\SendGrid.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Development\M.E.T\API\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Development\M.E.T\API\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
+C:\Development\M.E.T\API\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+C:\Development\M.E.T\API\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+C:\Development\M.E.T\API\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+C:\Development\M.E.T\API\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Development\M.E.T\API\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Development\M.E.T\API\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Development\M.E.T\API\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+C:\Development\M.E.T\API\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+C:\Development\M.E.T\API\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.xml
+C:\Development\M.E.T\API\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+C:\Development\M.E.T\API\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Development\M.E.T\API\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
